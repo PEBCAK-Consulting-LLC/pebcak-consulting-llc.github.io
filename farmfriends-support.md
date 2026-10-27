@@ -100,3 +100,7 @@ If you encounter any issues or have questions:
 - Email us directly: **[ryan@pebcakconsulting.com](mailto:ryan@pebcakconsulting.com)**
 - General support: **[support@pebcakconsulting.com](mailto:support@pebcakconsulting.com)**
 - Company website: [https://pebcakconsulting.com](https://pebcakconsulting.com)
+
+---
+
+[Back to Home]({{ "/" | relative_url }}) &bull; [Farm Friends Overview]({{ "/farmfriends/" | relative_url }}) &bull; [Privacy Policy]({{ "/farmfriends/privacy/" | relative_url }}) &bull; [Terms of Service]({{ "/farmfriends/terms/" | relative_url }})
