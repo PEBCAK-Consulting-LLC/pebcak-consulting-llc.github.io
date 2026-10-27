@@ -34,3 +34,10 @@ A tactical, zero-knowledge encrypted focus and interval timer built natively for
 - **[Privacy Policy]({{ "/privacy/" | relative_url }})**
 - **[Terms of Service]({{ "/terms/" | relative_url }})**
 
+### [Farm Friends: Overworld Rescue]({{ "/farmfriends/" | relative_url }})
+A wholesome, kid-friendly overworld animal rescue and sanctuary adventure built for iOS, iPadOS, and Android. Explore 100 handcrafted valley screens across 4 biomes, rescue and care for 32 animal species, customize your farm hero and Animal Care Salon accessories, and enjoy 14 original family-friendly soundtrack themes with strict COPPA-compliant local-first privacy.
+
+- **[Product Overview & Features]({{ "/farmfriends/" | relative_url }})**
+- **[Support & Parent Hub]({{ "/farmfriends/support/" | relative_url }})**
+- **[Privacy Policy]({{ "/farmfriends/privacy/" | relative_url }})**
+- **[Terms of Service]({{ "/farmfriends/terms/" | relative_url }})**
