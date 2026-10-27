@@ -1,102 +1,47 @@
 ---
 layout: page
-title: Farm Friends - Support
+title: Farm Friends - Overworld Rescue
 permalink: /pebcak-consulting-llc/farmfriends/
 ---
 
-# Farm Friends: Overworld Rescue — Support & Parent Hub
+# Farm Friends: Overworld Rescue
 
-Welcome to the official support hub for **Farm Friends: Overworld Rescue** — the wholesome, kid-friendly overworld animal rescue adventure built for Apple devices (iOS, iPadOS) and Android.
+### Wholesome Overworld Animal Rescue & Sanctuary Adventure for Kids & Families
 
-**Developer:** PEBCAK Consulting LLC  
-**Primary Support Contact:** [ryan@pebcakconsulting.com](mailto:ryan@pebcakconsulting.com)  
-**General Inquiries:** [support@pebcakconsulting.com](mailto:support@pebcakconsulting.com)  
-**Response Time:** Within 24–48 business hours.  
-**Age Rating:** Kids (Ages 6–8) / All Ages  
+**Farm Friends: Overworld Rescue** is a peaceful, stress-free 2D top-down exploration and animal rescue adventure built for iOS, iPadOS, and Android. Designed for young explorers (Ages 6–8) and families, players roam a vibrant 10x10 interconnected overworld, befriend 32 adorable animal species, guide happy follower parades back to cozy farmhouse pens, and pamper rescued animals in the Animal Care Salon.
 
 ---
 
-## 🌾 Quick Navigation
-- [How to Play & Rescue Animals](#how-to-play--rescue-animals)
-- [The Animal Follow Parade & Farmhouse Pens](#the-animal-follow-parade--farmhouse-pens)
-- [Character Wardrobe & Pet Companions](#character-wardrobe--pet-companions)
-- [Parental Controls & Parent Zone](#parental-controls--parent-zone)
-- [In-App Purchases & Restoring Purchases](#in-app-purchases--restoring-purchases)
-- [Backing Up & Migrating Game Progress](#backing-up--migrating-game-progress)
-- [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
-- [Contact Support](#contact-support)
+## Key Capabilities
+
+### 🐾 100 Handcrafted Overworld Screens & 4 Biomes
+Explore Sunlit Meadows, Whispering Forests, Crystal Lakes, and Golden Harvest Fields. Every screen is packed with gentle wildlife, interactive secrets, and zero hazards or timers.
+
+### 🏡 Follower Parades & Farmhouse Animal Pens
+Offer treats to wild animals to invite them into your follower parade! Lead your parade into fenced Farmhouse Animal Pens to celebrate with victory fanfares, earn Golden Coins, and unlock entries in your Sanctuary Compendium.
+
+### 🛁 Interactive Animal Care Salon & Accessories
+Pamper rescued animals in the Care Salon! Wash muddy coats with soapy bubbles, brush tangled fur, feed crunchy snacks, and dress your animals in cute bows, bandanas, hats, and flower crowns.
+
+### 🎨 Character Wardrobe & 4 Starter Companions
+Customize your hero's hairstyle, hair color, skin tone, outfit, shoes, and hats anytime, and explore alongside your loyal starter companion (**Ash** the Australian Shepherd, **Koda** the Boxer, **Luna** the Tuxedo Cat, or **Milo** the Ginger Cat).
+
+### 🎵 14 Original Family-Friendly Soundtrack Themes
+Switch tracks anytime in the in-game Music Radio or let biome-reactive melodies accompany your adventure.
+
+### 🔒 100% COPPA-Compliant Local-First Privacy
+- **Zero Personal Data Collection:** No accounts, no logins, and no behavioral tracking.
+- **Gated Parent Zone:** All external links, optional purchases, and ad toggles are protected behind an adult multiplication verification gate.
 
 ---
 
-## How to Play & Rescue Animals
+## Support & Resources
 
-1. **Controls:** Use the dynamic on-screen joystick or connect a Bluetooth game controller (MFi, Xbox, PlayStation).
-2. **Move Around:** Walk, jump over bushes and rocks, run, crouch, and dance with your animal companion.
-3. **Feed Treats:** Walk up to any wild animal roaming the meadows and tap **TREAT** to offer them a delicious snack.
-
----
-
-## The Animal Follow Parade & Farmhouse Pens
-
-- **Follower Parade:** Feeding a wild animal causes them to happily follow you wherever you go! Multiple animals form a cute parade line behind you.
-- **Cross-Screen Exploring:** Following animals stay with you as you explore across different screen boundaries and biomes.
-- **Farmhouse Animal Pens:** Look for cozy Farmhouses and Red Barns across the valley (featured on over 85% of screens). Guide your following animals into the fenced Animal Pen area.
-- **Victory Fanfare & Reward:** Once inside the pen, hear the celebratory victory fanfare! The animal settles safely into the pen, joins your Sanctuary Compendium, and you receive **+50 Golden Coins**!
+- [Support & Parent Hub]({{ "/farmfriends/support/" | relative_url }})
+- [Privacy Policy]({{ "/farmfriends/privacy/" | relative_url }})
+- [Terms of Service (EULA)]({{ "/farmfriends/terms/" | relative_url }})
+- Direct Support Inquiries: [ryan@pebcakconsulting.com](mailto:ryan@pebcakconsulting.com)
 
 ---
 
-## Character Wardrobe & Pet Companions
-
-- Tap the **STYLE** (Wardrobe) dock button to access the Character Studio anytime.
-- Customize hair styles, hair colors, skin tones, shirt and pants colors, shoes, and hats.
-- Choose your loyal starter mascot from all 4 companions: **Ash** (Australian Shepherd), **Koda** (Boxer), **Luna** (Tuxedo Cat), and **Milo** (Ginger Cat).
-
----
-
-## Parental Controls & Parent Zone
-
-- Tap the **PARENTS** button in the top-right corner of the screen.
-- A multiplication math challenge verifies adult access before unlocking the settings panel.
-- **Rewarded Ad Switch:** Parents can completely toggle off optional bonus rewarded ads. When toggled off, the game runs 100% ad-free at natural progression speed.
-- **Zero Third-Party Tracking:** No personal data or advertising identifiers are ever collected.
-
----
-
-## In-App Purchases & Restoring Purchases
-
-Farm Friends offers optional family-safe purchase passes to remove the top banner ad:
-- **24-Hour Pass ($0.99)**
-- **Lifetime Ad-Free Unlock ($4.99)**
-- **Monthly Club Pass ($0.99/mo)**
-
-**How to Restore Purchases on a New Device:**
-1. Open the **Parent Zone** by solving the adult math challenge.
-2. Tap **"Restore Purchases"**.
-3. Your device will contact the Apple App Store / Google Play and immediately restore your lifetime or active subscription unlock.
-
----
-
-## Backing Up & Migrating Game Progress
-
-Farm Friends operates 100% offline without remote developer servers to protect your family's privacy:
-- All game saves are stored directly on your device.
-- To preserve your rescued animals and coins when upgrading devices, ensure your device's native **Apple iCloud Backup** (iOS) or **Google Device Backup** (Android) is enabled.
-
----
-
-## Frequently Asked Questions (FAQ)
-
-### Can my child play without an internet connection?
-**Yes!** Farm Friends is completely playable offline. Once installed, exploration, character customization, animal rescues, and sticker collecting require zero internet connection.
-
-### Are there any scary monsters or violence?
-**None.** Farm Friends is 100% peaceful and gentle. Animals are never harmed or lost.
-
----
-
-## Contact Support
-
-If you encounter any issues or have questions:
-- Email us directly: **[ryan@pebcakconsulting.com](mailto:ryan@pebcakconsulting.com)**
-- General support: **[support@pebcakconsulting.com](mailto:support@pebcakconsulting.com)**
-- Company website: [https://pebcakconsulting.com](https://pebcakconsulting.com)
+[Back to Home]({{ "/" | relative_url }}) &bull; [Support]({{ "/farmfriends/support/" | relative_url }}) &bull; [Privacy Policy]({{ "/farmfriends/privacy/" | relative_url }}) &bull; [Terms of Service]({{ "/farmfriends/terms/" | relative_url }})
