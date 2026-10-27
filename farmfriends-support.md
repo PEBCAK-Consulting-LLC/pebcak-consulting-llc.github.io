@@ -99,7 +99,7 @@ Farm Friends operates 100% offline without remote developer servers to protect y
 If you encounter any issues or have questions:
 - Email us directly: **[ryan@pebcakconsulting.com](mailto:ryan@pebcakconsulting.com)**
 - General support: **[support@pebcakconsulting.com](mailto:support@pebcakconsulting.com)**
-- Company website: [https://pebcakconsulting.com](https://pebcakconsulting.com)
+- Company website: [https://pebcak-consulting-llc.github.io](https://pebcak-consulting-llc.github.io)
 
 ---
 

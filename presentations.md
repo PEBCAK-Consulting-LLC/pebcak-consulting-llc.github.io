@@ -38,7 +38,7 @@ One of my most popular presentations on detecting and hunting lateral movement i
 
 - [Introduction to Mac Malware (ACSC)](/assets/pdfs/acsc_IntrotoMacMalware.pdf)
 - [OS Hardening: An Unsung Hero](/assets/pdfs/OSHardening_AnUnsungHero.pdf)
-- [PowerShell Empire & Welcoming Remarks (HTCIA)](/assets/pdfs/htcia_WelcomingRemarksAndPowershellEmpire .pdf)
+- [PowerShell Empire & Welcoming Remarks (HTCIA)](/assets/pdfs/htcia_WelcomingRemarksAndPowershellEmpire%C2%A0.pdf)
 
 ### **Academic Outreach**
 

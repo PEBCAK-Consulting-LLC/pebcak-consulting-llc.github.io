@@ -18,7 +18,7 @@ permalink: /terms/
 
 By downloading, installing, accessing, or using the **Layer8Focus** application ("Application") and related web services operated by **PEBCAK Consulting LLC** ("Company", "we", "us", or "our"), you agree to be bound by these Terms of Service ("Terms") and our [Privacy Policy]({{ "/privacy/" | relative_url }}). If you do not agree to these Terms, do not install or use the Application.
 
-For users acquiring the Application via Apple's App Store, this agreement also incorporates Apple's [Standard Licensed Application End User License Agreement (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/), which governs your use of the Application on Apple-branded products.
+For users acquiring the Application via Apple's App Store, this agreement also incorporates Apple's [Standard Licensed Application End User License Agreement (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/){:rel="noopener noreferrer"}, which governs your use of the Application on Apple-branded products.
 
 ---
 
@@ -42,7 +42,7 @@ You agree not to:
 - **Pro Operator Lifetime License:** Layer8Focus offers optional non-consumable in-app purchases (such as the Pro Operator Lifetime License) and optional tip contributions.
 - **Payment Processing:** All purchases made through the iOS, iPadOS, watchOS, macOS, or visionOS Application are processed directly by Apple through **Apple StoreKit**. Your payment is subject to Apple's Media Services Terms and Conditions.
 - **Restoration of Purchases:** Non-consumable purchases can be restored at any time on devices associated with the same Apple ID using the **Restore Purchases** feature in the Application's settings.
-- **Refunds:** Because transactions are processed by Apple, refund requests must be submitted directly to Apple in accordance with Apple's refund policies ([reportaproblem.apple.com](https://reportaproblem.apple.com)).
+- **Refunds:** Because transactions are processed by Apple, refund requests must be submitted directly to Apple in accordance with Apple's refund policies ([reportaproblem.apple.com](https://reportaproblem.apple.com){:rel="noopener noreferrer"}).
 
 ---
 
@@ -92,7 +92,7 @@ If you have questions, comments, or concerns regarding these Terms of Service, p
 **PEBCAK Consulting LLC**  
 Attn: Legal & Operations  
 Email: [layer8focus@pebcakconsulting.com](mailto:layer8focus@pebcakconsulting.com)  
-Website: [https://pebcakconsulting.com](https://pebcakconsulting.com)
+Website: [https://pebcak-consulting-llc.github.io](https://pebcak-consulting-llc.github.io)
 
 ---
 

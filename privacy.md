@@ -36,7 +36,7 @@ PEBCAK Consulting LLC ("we", "us", or "our") is dedicated to protecting your fun
 - **Data Points:** Encrypted application state archive (`.l8bak`).
 - **Google API Scopes:** Layer8Focus utilizes restricted app data scopes (`drive.appdata` / `drive.file`) to read and write backup archives created strictly by the application.
 - **Security:** Files are encrypted with user-defined passphrases via AES-256-GCM. Unencrypted data is never transmitted.
-- **Google API Limited Use Disclosure:** Layer8Focus's use and transfer to any other app of information received from Google APIs will adhere to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
+- **Google API Limited Use Disclosure:** Layer8Focus's use and transfer to any other app of information received from Google APIs will adhere to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy){:rel="noopener noreferrer"}, including the Limited Use requirements.
 
 ### C. Health & Wellness Data Integration (Optional)
 - **Platforms:** Android Health Connect and Apple HealthKit.
@@ -71,7 +71,7 @@ You have complete sovereignty over your data:
 
 - **Local Data Erasure:** You can purge all application state, presets, and streak history instantly by navigating to **Settings -> Data Privacy -> Erase All Data**, or by clearing application cache and storage in your device settings.
 - **Cloud Backup Removal:** You can delete your encrypted backup archives at any time directly through the Layer8Focus Cloud Vault manager or by removing the application data from your Google Drive / iCloud Drive settings.
-- **Account Disconnection:** You can revoke Google Sign-In authorizations granted to Layer8Focus at any time via your [Google Account Security Permissions](https://myaccount.google.com/permissions).
+- **Account Disconnection:** You can revoke Google Sign-In authorizations granted to Layer8Focus at any time via your [Google Account Security Permissions](https://myaccount.google.com/permissions){:rel="noopener noreferrer"}.
 
 ---
 
@@ -113,4 +113,4 @@ If you have questions, inquiries, or regulatory requests concerning this policy 
 **PEBCAK Consulting LLC**  
 Attn: Privacy & Security Operations  
 Email: [layer8focus@pebcakconsulting.com](mailto:layer8focus@pebcakconsulting.com)  
-Website: [https://pebcakconsulting.com](https://pebcakconsulting.com)  
+Website: [https://pebcak-consulting-llc.github.io](https://pebcak-consulting-llc.github.io)  

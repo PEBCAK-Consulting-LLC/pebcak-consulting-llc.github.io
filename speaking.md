@@ -17,17 +17,17 @@ A comprehensive list of all speaking engagements, presentations, and media appea
 | Engagement/Conference | Location | Date |
 | ----------------------------------------- | --------------------- | ---------------- |
 | Zeroday.Cloud | TBD | December 2025 |
-| Wizdom USA 2025 | [Podcast](https://podcasts.apple.com/us/podcast/live-talk-security-minds-from-google-cloud-aws-wiz/id1675289400?i=1000740219561){:rel="noopener noreferrer"} [Online](https://youtu.be/iToeMjfr3Yg?si=3e7uUWnrUbxzdt9A){:rel="noopener noreferrer"} | November 2025 | 
+| Wizdom USA 2025 | [Podcast](https://podcasts.apple.com/us/podcast/live-talk-security-minds-from-google-cloud-aws-wiz/id1675289400?i=1000740219561){:rel="noopener noreferrer"} [Online](https://youtu.be/iToeMjfr3Yg){:rel="noopener noreferrer"} | November 2025 | 
 | Blackhat USA 2025 | TBD | August 2025 |
-| Defcon33 Bug Bounty Village | [Online](https://youtu.be/YKHs2XJWmXU?si=rPNayM7oC8cGXy6O){:rel="noopener noreferrer"} | August 2025 |
-| Defcon33 Cloud Village | [Online](https://youtu.be/kV6Bxanefrw?si=C9i652VxZ-TlTght){:rel="noopener noreferrer"} | August 2025 |
-| From Idea to Open-Source: Building CNA-GURU, a Generative AI Assistant for Security Advisories | [Online](https://youtu.be/OYH8qbUueaI?si=n6yuH0Fo9O8fyo-O){:rel="noopener noreferrer"} | April 2025 |
-| The DOs and DON'Ts when conducting security testing in AWS | [Online](https://www.youtube.com/live/qxHy0tZhC-U?si=YKoDRtaZoL_vRiUR){:rel="noopener noreferrer"} | February 2025 |
+| Defcon33 Bug Bounty Village | [Online](https://youtu.be/YKHs2XJWmXU){:rel="noopener noreferrer"} | August 2025 |
+| Defcon33 Cloud Village | [Online](https://youtu.be/kV6Bxanefrw){:rel="noopener noreferrer"} | August 2025 |
+| From Idea to Open-Source: Building CNA-GURU, a Generative AI Assistant for Security Advisories | [Online](https://youtu.be/OYH8qbUueaI){:rel="noopener noreferrer"} | April 2025 |
+| The DOs and DON'Ts when conducting security testing in AWS | [Online](https://www.youtube.com/live/qxHy0tZhC-U){:rel="noopener noreferrer"} | February 2025 |
 | Screaming in the Cloud | [Podcast](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/disclosing-vulnerabilities-in-the-cloud-with-ryan-nolette/){:rel="noopener noreferrer"} | October 2024 |
 | FWD:Cloudsec EU 2024 inaugural conference | [Online](https://youtu.be/JINXKN9NZmY){:rel="noopener noreferrer"} | September 2024 |
 | What's Next | College class presentation | November 2022 |
 | Cloud-native Defense in Depth | [Online](https://assets.sentinelone.com/cloud-security/wbr-cloud-native-defense-in-depth){:rel="noopener noreferrer"} | August 2022 |
-| AWS ReInforce: AWS on Air Live | [Online](https://twitter.com/AWSonAir/status/1552281442704429057?s=20&t=4G7o3JRm_QFypn0kPhjB6g){:rel="noopener noreferrer"} | July 2022 |
+| AWS ReInforce: AWS on Air Live | [Online](https://twitter.com/AWSonAir/status/1552281442704429057){:rel="noopener noreferrer"} | July 2022 |
 | SANS CloudSecNext Summit 2021 - Doing Bad Things for Good Reasons: Leveraging Free Tools for Security Testing | [Online](https://www.youtube.com/watch?v=Ni9rkQ4Olko){:rel="noopener noreferrer"} | June 2021 |
 | Postman Galaxy 2021 - Leveraging Postman for Security Testing | [Online](https://www.postman.com/postman-galaxy/leveraging-postman-for-security-testing/){:rel="noopener noreferrer"} | January 2021 |
 | Postman Galaxy 2021 - Leveraging Postman Collections to Facilitate Security Services Interactions | [Online](https://www.postman.com/postman-galaxy/postman-collections-facilitate-security-services-interactions/){:rel="noopener noreferrer"} | January 2021 |
@@ -41,15 +41,15 @@ A comprehensive list of all speaking engagements, presentations, and media appea
 | Amazon AWS Security Summit 2018 | London, England | October 2018 |
 | SANS Threat Hunting Summit 2018 - Lightning talk | New Orleans, Louisiana | September 2018 |
 | SANS Threat Hunting Summit 2018 - Threat Hunting in the cloud | [New Orleans, Louisiana](https://youtu.be/x4OJx2M52iI){:rel="noopener noreferrer"} | September 2018 |
-| CyberThreat 2018 | [London, England](https://www.cyberthreat2018.com/){:rel="noopener noreferrer"} | February 2018 |
+| CyberThreat 2018 | London, England | February 2018 |
 | Joint webinar with Carbon Black and Sqrrl: Threat Hunting for Experts: How to Hunt for Lateral Movement in Your Environment | [Online](https://www.youtube.com/watch?v=Cfln8zHTZvw&feature=youtu.be){:rel="noopener noreferrer"} | October 2017 |
 | Featured in post "Network lateral movement from an attacker's perspective" by Michael Heller | [Online Article](https://searchsecurity.techtarget.com/news/450427135/Network-lateral-movement-from-an-attackers-perspective){:rel="noopener noreferrer"} | September 2017 |
 | Threat Hunting for Lateral Movement: DerbyCon Edition | [Louisville, Kentucky](https://www.youtube.com/watch?v=YFBHkRrARMI){:rel="noopener noreferrer"} | September 2017 |
-| Webinar on Threat Hunting for Lateral Movement | [Online](https://info.sqrrl.com/threat-hunting-lateral-movement){:rel="noopener noreferrer"} | May 2017 |
+| Webinar on Threat Hunting for Lateral Movement | [Slides](/assets/pdfs/Lateral-Movement-webinar-slides.pdf) | May 2017 |
 | Hunter Profile | [BrightTalk](https://www.brighttalk.com/webcast/15393/257671){:rel="noopener noreferrer"} | May 2017 |
-| Opensec Hacksecure | [Boston, MA](https://opensec.hacksecure.org/){:rel="noopener noreferrer"} | May 2017 |
+| Opensec Hacksecure | Boston, MA | May 2017 |
 | The Infosecurity Magazine Conference | [Boston, MA](https://www.infosecurity-magazine.com/conferences/boston-agile-cybersecurity/){:rel="noopener noreferrer"} | December 2016 |
-| HIMSS Privacy & Security Forum | [Boston, MA](https://www.healthprivacyforum.com/boston/2016/sponsorship/for-sponsors/sponsor-services6){:rel="noopener noreferrer"} | December 2016 |
+| HIMSS Privacy & Security Forum | Boston, MA | December 2016 |
 | ACSC | Boston, MA | November 2016 |
 | Infragard | Manchester, NH | October 2016 |
 | DarkReading Webinar | [Online](https://webinar.darkreading.com/2272){:rel="noopener noreferrer"} | September 2016 |

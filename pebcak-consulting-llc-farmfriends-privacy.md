@@ -70,7 +70,7 @@ If you have questions, feedback, or concerns regarding our privacy practices, pl
 
 **PEBCAK Consulting LLC**  
 Email: [ryan@pebcakconsulting.com](mailto:ryan@pebcakconsulting.com)  
-Website: [https://pebcakconsulting.com](https://pebcakconsulting.com)
+Website: [https://pebcak-consulting-llc.github.io](https://pebcak-consulting-llc.github.io)
 
 ---
 

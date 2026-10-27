@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Building Ulysses-MCP - From Frustration to a Smarter Writing Workflow"
+date: 2025-10-30 12:00:00 -0400
+categories: mcp ai writing workflow
+---
+
 # Building Ulysses-MCP - From Frustration to a Smarter Writing Workflow
 
 For the past 20+ years, I've lived and breathed technical writing — documentation, reports, manuals, policies, and all the structured, methodical writing that comes with a life in security engineering. But recently, I wanted to see if I could do something different — something creative. So, I decided to write my first fantasy novel.
@@ -59,7 +66,7 @@ One problem my making this dream a reality though…
 
 ## The Challenge: Ulysses Has No Public API
 
-I dove into [Ulysses' official documentation](https://ulysses.app/kb/) to see what integration options existed. Unfortunately, there's no traditional API. Instead, Ulysses uses a local app-based integration model.  
+I dove into [Ulysses' official documentation](https://ulysses.app/kb/){:rel="noopener noreferrer"} to see what integration options existed. Unfortunately, there's no traditional API. Instead, Ulysses uses a local app-based integration model.  
 
 So, I reached out to Ulysses support, explained what I was building, and submitted a few feature requests.
 
@@ -69,7 +76,7 @@ To their credit, the Ulysses support team was fantastic — responsive, friendly
 
 ## The Solution: Ulysses-MCP
 
-That's when I started building [ulysses-mcp](https://github.com/sonofagl1tch/ulysses-mcp).  
+That's when I started building [ulysses-mcp](https://github.com/sonofagl1tch/ulysses-mcp){:rel="noopener noreferrer"}.  
 
 The project evolved into a middleware layer that allows Ulysses to communicate with a local MCP server, enabling intelligent local analysis of my writing without sending anything to the cloud.
 
@@ -113,7 +120,7 @@ And my local LLM answers directly — privately, securely, and in near real time
 
 ## The Result
 
-The newest version of [ulysses-mcp](https://github.com/sonofagl1tch/ulysses-mcp) now:
+The newest version of [ulysses-mcp](https://github.com/sonofagl1tch/ulysses-mcp){:rel="noopener noreferrer"} now:
 
 - Builds the local middleware app required by Ulysses.  
 - Enables communication with a local MCP server.  
@@ -128,7 +135,7 @@ It's been a game-changer for my writing workflow. I've caught scenes where I acc
 I'm continuing to refine the project, add better metadata parsing, and explore deeper integrations. I'd also love to see Ulysses eventually support native MCP or local LLM features directly.
 
 If you're curious or want to contribute, check it out here:  
-👉 [**https://github.com/sonofagl1tch/ulysses-mcp**](https://github.com/sonofagl1tch/ulysses-mcp)
+👉 [**https://github.com/sonofagl1tch/ulysses-mcp**](https://github.com/sonofagl1tch/ulysses-mcp){:rel="noopener noreferrer"}
 
 And if you're like me — a technical style writer venturing into creative writing — maybe this project will make your journey a little smoother.
 

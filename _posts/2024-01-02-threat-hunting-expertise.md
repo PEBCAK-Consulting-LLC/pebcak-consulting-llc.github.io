@@ -19,7 +19,7 @@ My threat hunting journey began in traditional endpoint security, where we focus
 Some highlights from my research and writing:
 
 ### Co-Authored Huntpedia
-The [Huntpedia](https://www.threathunting.net/files/huntpedia.pdf) serves as a comprehensive guide for threat hunters, covering methodologies and best practices I've developed over years of hands-on experience.
+The [Huntpedia](https://www.threathunting.net/files/huntpedia.pdf){:rel="noopener noreferrer"} serves as a comprehensive guide for threat hunters, covering methodologies and best practices I've developed over years of hands-on experience.
 
 ### Carbon Black Blog Series
 During my time at Carbon Black, I authored numerous articles on:

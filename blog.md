@@ -5,23 +5,23 @@ permalink: /blog/
 ---
 
 <div class="search-container">
-  <input type="text" id="search-input" placeholder="Search blog posts..." />
-  <button onclick="clearSearch()">Clear</button>
+  <input type="text" id="search-input" placeholder="Search blog posts..." maxlength="100" aria-label="Search blog posts" />
+  <button type="button" id="clear-search-btn">Clear</button>
 </div>
 
-<div id="search-results"></div>
+<div id="search-results" aria-live="polite"></div>
 <div id="post-list">
   <h2>All Posts</h2>
   {% for post in site.posts %}
-    <div class="post-item" data-title="{{ post.title | downcase }}" data-content="{{ post.content | strip_html | downcase }}" data-categories="{{ post.categories | join: ' ' | downcase }}">
-      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    <div class="post-item" data-title="{{ post.title | downcase | escape }}" data-content="{{ post.content | strip_html | downcase | escape }}" data-categories="{{ post.categories | join: ' ' | downcase | escape }}">
+      <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
       <p class="post-meta">
         <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
         {% if post.categories.size > 0 %}
-          • {{ post.categories | join: ", " }}
+          • {{ post.categories | join: ", " | escape }}
         {% endif %}
       </p>
-      <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+      <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 | escape }}</p>
     </div>
   {% endfor %}
 </div>
@@ -108,113 +108,33 @@ permalink: /blog/
   font-style: italic;
   padding: 2rem;
 }
+
+@media (prefers-color-scheme: dark) {
+  .search-container {
+    background-color: #161b22;
+    border: 1px solid #30363d;
+  }
+  #search-input {
+    background-color: #0d1117;
+    color: #e6edf3;
+    border-color: #30363d;
+  }
+  .post-item {
+    border-color: #30363d;
+    background-color: #161b22;
+  }
+  .post-item h3 a,
+  #search-results h2 {
+    color: #79b8ff;
+  }
+  .post-meta,
+  .no-results {
+    color: #959da5;
+  }
+  .post-excerpt {
+    color: #e6edf3;
+  }
+}
 </style>
 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  const searchInput = document.getElementById('search-input');
-  const postList = document.getElementById('post-list');
-  const searchResults = document.getElementById('search-results');
-  const postItems = document.querySelectorAll('.post-item');
-
-  // Rate limiting for search
-  let searchTimeout;
-  const SEARCH_DELAY = 300; // milliseconds
-  const MAX_QUERY_LENGTH = 100;
-
-  searchInput.addEventListener('input', function() {
-    const rawQuery = this.value.trim();
-
-    // Input validation
-    if (rawQuery.length > MAX_QUERY_LENGTH) {
-      this.value = rawQuery.substring(0, MAX_QUERY_LENGTH);
-      return;
-    }
-
-    // Clear previous timeout
-    clearTimeout(searchTimeout);
-
-    // Debounce search to prevent excessive processing
-    searchTimeout = setTimeout(function() {
-      const query = rawQuery.toLowerCase();
-
-      if (query === '') {
-        showAllPosts();
-        return;
-      }
-
-      const results = [];
-      postItems.forEach(function(item) {
-        // Validate that item exists and has required attributes
-        if (!item || !item.getAttribute) return;
-
-        const title = item.getAttribute('data-title') || '';
-        const content = item.getAttribute('data-content') || '';
-        const categories = item.getAttribute('data-categories') || '';
-
-        if (title.includes(query) || content.includes(query) || categories.includes(query)) {
-          results.push(item);
-        }
-      });
-
-      displaySearchResults(results, query);
-    }, SEARCH_DELAY);
-  });
-
-  function showAllPosts() {
-    postList.style.display = 'block';
-    searchResults.innerHTML = '';
-    postItems.forEach(function(item) {
-      item.classList.remove('hidden');
-    });
-  }
-
-  function displaySearchResults(results, query) {
-    postList.style.display = 'none';
-
-    if (results.length === 0) {
-      // Escape user input to prevent XSS
-      const escapedQuery = escapeHtml(query);
-      searchResults.innerHTML = '<h2>Search Results</h2><div class="no-results">No posts found matching "' + escapedQuery + '"</div>';
-      return;
-    }
-
-    // Validate results count to prevent potential issues
-    const validResults = results.filter(item => item && item.outerHTML);
-    let resultsHtml = '<h2>Search Results (' + validResults.length + ' found)</h2>';
-
-    validResults.forEach(function(item) {
-      // Additional security: ensure item is a valid DOM element
-      if (item.nodeType === Node.ELEMENT_NODE) {
-        resultsHtml += item.outerHTML;
-      }
-    });
-
-    searchResults.innerHTML = resultsHtml;
-  }
-
-  // HTML escape function to prevent XSS
-  function escapeHtml(text) {
-    const div = document.createElement('div');
-    div.textContent = text;
-    return div.innerHTML;
-  }
-});
-
-function clearSearch() {
-  const searchInput = document.getElementById('search-input');
-  const postList = document.getElementById('post-list');
-  const searchResults = document.getElementById('search-results');
-  
-  // Validate elements exist before manipulating
-  if (searchInput) searchInput.value = '';
-  if (postList) postList.style.display = 'block';
-  if (searchResults) searchResults.innerHTML = '';
-  
-  document.querySelectorAll('.post-item').forEach(function(item) {
-    if (item && item.classList) {
-      item.classList.remove('hidden');
-    }
-  });
-}
-</script>
+<script src="{{ '/assets/js/blog-search.js' | relative_url }}" defer></script>
