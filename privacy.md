@@ -7,8 +7,8 @@ permalink: /privacy/
 # PEBCAK Consulting LLC - Privacy Policy
 
 **Effective Date:** October 1, 2026  
-**Last Updated:** October 1, 2026  
-**Applications Covered:** Layer8Focus (Android, Wear OS, iOS, watchOS, macOS, visionOS)  
+**Last Updated:** October 31, 2026  
+**Applications Covered:** Layer8Focus (Android, Wear OS, iOS, iPadOS, watchOS, macOS, visionOS)  
 **Publisher:** PEBCAK Consulting LLC  
 **Contact Email:** [layer8focus@pebcakconsulting.com](mailto:layer8focus@pebcakconsulting.com) | [sonofagl1tch@pebcakconsulting.com](mailto:sonofagl1tch@pebcakconsulting.com)  
 
@@ -20,7 +20,7 @@ PEBCAK Consulting LLC ("we", "us", or "our") is dedicated to protecting your fun
 
 - **No Remote Account Required:** You can use all core interval timer features without creating an account or providing any personal information.
 - **Hardware-Backed Encryption at Rest:** All timer logs, intervals, streaks, and preferences are stored exclusively on your local device and encrypted using hardware-accelerated **AES-256-GCM**.
-- **No Data Brokering or Selling:** We do not sell, rent, monetize, or disclose your personal information or productivity telemetry to third parties or data brokers.
+- **No Data Brokering or Selling:** We do not sell or rent your personal information or productivity telemetry to data brokers. On the free tier of Layer8Focus (Android and iOS/iPadOS), advertisements are served by **Google AdMob** as disclosed in Section 2.E below, and can be disabled via optional rewarded passes or the Pro Operator upgrade.
 - **Zero-Knowledge Cloud Backups:** If you choose to back up your data to Google Drive or iCloud, your data is encrypted locally on your device with your master passphrase using **AES-256-GCM** and **PBKDF2** (100,000 hashing rounds) *before* transmission. Neither PEBCAK Consulting LLC nor cloud storage providers possess the key to decrypt your vaults.
 
 ---
@@ -39,7 +39,7 @@ PEBCAK Consulting LLC ("we", "us", or "our") is dedicated to protecting your fun
 - **Google API Limited Use Disclosure:** Layer8Focus's use and transfer to any other app of information received from Google APIs will adhere to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy){:rel="noopener noreferrer"}, including the Limited Use requirements.
 
 ### C. Health & Wellness Data Integration (Optional)
-- **Platforms:** Android Health Connect and Apple HealthKit.
+- **Platforms:** Android Health Connect (Android only; the iOS/iPadOS app does not access Apple Health).
 - **Data Points:** Completed focus and meditation blocks written as **Mindful Sessions** (`WRITE_MINDFULNESS`) and **Exercise Sessions** (`WRITE_EXERCISE`).
 - **Policy Compliance:** 
   - Access requires your explicit runtime system authorization.
@@ -52,11 +52,11 @@ PEBCAK Consulting LLC ("we", "us", or "our") is dedicated to protecting your fun
 - **Transport:** Exchanged directly between your phone and paired watch via local Bluetooth / Wi-Fi peer connections using the official Google Play Services Wearable Data Layer (`Wearable.DataClient`) or Apple WatchConnectivity framework.
 - **Security:** Data is ephemeral and stays within your personal device ecosystem.
 
-### E. Advertising & Rewarded Access Passes (Android)
-- **Partner:** Google AdMob / Google Play Services.
-- **Usage:** Layer8Focus includes optional rewarded video advertisements (e.g. watch an optional 15-30 second transmission to earn 1 hour or 6 hours of ad-free deep work).
-- **Data Collected by AdMob:** Device advertising identifier (Google Advertising ID / GAID), coarse location based on IP address, and standard interaction telemetry to serve and measure non-personalized or personalized advertisements.
-- **User Control:** You may reset your advertising ID or opt out of personalized ads at any time via **Android Settings -> Google -> Ads**. You can also permanently disable all advertisements with the optional Pro Operator upgrade.
+### E. Advertising & Rewarded Access Passes (Android and iOS/iPadOS)
+- **Partner:** Google AdMob (Google Mobile Ads SDK).
+- **Usage:** The free tier of Layer8Focus displays banner and interstitial advertisements and offers optional rewarded video advertisements (e.g. watch an optional 15-30 second transmission to earn 1 hour or 6 hours of ad-free deep work).
+- **Data Collected by AdMob:** Device advertising identifier (Google Advertising ID on Android; Apple IDFA on iOS only if you grant App Tracking Transparency permission), coarse location derived from IP address, device and app information, and ad interaction telemetry, used to serve and measure personalized or non-personalized advertisements. Google may use cookies or device identifiers for this purpose. See [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites){:rel="noopener noreferrer"} and the [Google Privacy Policy](https://policies.google.com/privacy){:rel="noopener noreferrer"}.
+- **User Control:** Android: reset your advertising ID or opt out of personalized ads via **Settings -> Google -> Ads**. iOS/iPadOS: manage tracking via **Settings -> Privacy & Security -> Tracking** and limit ad personalization at [Google Ads Settings](https://adssettings.google.com){:rel="noopener noreferrer"}. You can permanently disable all advertisements with the optional Pro Operator upgrade.
 
 ### F. Application Diagnostics and Crash Telemetry
 - **Tool:** Firebase Crashlytics.

@@ -33,7 +33,7 @@ PEBCAK Consulting LLC is deeply committed to protecting the privacy of children 
 - **Cloud Backup:** Included exclusively in your device's native **Apple iCloud Backup** or **Google Device Backup**. PEBCAK Consulting LLC does not operate external servers or hold copies of your game saves.
 
 ### B. Family-Safe Advertising (COPPA Compliant)
-- **Partner:** Google AdMob (Families Program).
+- **Partner:** Google AdMob (Families Program). See [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites) and the [Google Privacy Policy](https://policies.google.com/privacy).
 - **COPPA Child-Directed Configuration:** All ad requests are flagged with `tagForChildDirectedTreatment=true` and `underAgeOfConsent=true` with a maximum content rating of **G** (General Audience).
 - **Non-Personalized Ads Only:** Advertisements are strictly contextual and family-safe. Behavioral targeting, remarketing, and interest-based profiling are prohibited.
 - **Parental Control Ad Toggle:** Inside the gated Parent Zone, parents have the option to completely turn OFF optional rewarded ads. When toggled off, no ad requests are made.
