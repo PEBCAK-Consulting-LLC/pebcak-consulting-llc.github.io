@@ -21,7 +21,6 @@ Welcome to the official support hub for **Layer8Focus** — the tactical zero-kn
 - [Encrypted Backups & Zero-Knowledge Architecture](#encrypted-backups--zero-knowledge-architecture)
 - [Cross-Device Synchronization](#cross-device-synchronization)
 - [In-App Purchases & Restoring Purchases](#in-app-purchases--restoring-purchases)
-- [Apple Health & Mindful Minutes](#apple-health--mindful-minutes)
 - [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
 - [Contact Support & Bug Reports](#contact-support--bug-reports)
 
@@ -78,14 +77,6 @@ Layer8Focus offers an optional one-time **Pro Operator Lifetime License** (unloc
   3. Tap **Restore Purchases** at the bottom of the screen.
   4. Sign in with the Apple ID used for the original purchase. StoreKit will restore your Pro Operator status immediately with zero charges.
 - **Family Sharing:** In-App Purchases are linked to your Apple ID and follow standard App Store licensing terms.
-
----
-
-## Apple Health & Mindful Minutes
-
-- **Permission:** When prompted, allow Layer8Focus to write Mindful Sessions to Apple Health.
-- **How It Works:** Every completed focus interval automatically logs as Mindful Minutes on your device, contributing to your daily mindfulness goals in Apple Health.
-- **Managing Permissions:** You can enable or revoke access anytime in iOS **Settings -> Privacy & Security -> Health -> Layer8Focus**.
 
 ---
 

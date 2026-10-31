@@ -41,8 +41,8 @@ Immerse yourself in curated audio environments:
 ### 🌿 Dual Aesthetics: Terminal & Zen Minimalist
 Toggle between a classic **VT100 Phosphor Green / Amber CRT Terminal** HUD and a serene, distraction-free **Zen Minimalist** layout depending on your work environment.
 
-### 📊 HealthKit Mindful Minutes
-Automatically log completed focus and meditation blocks as Mindful Sessions directly into Apple Health.
+### 🧘 Meditation Sanctuary & Somatic Breathwork
+Guided mindfulness sessions, customizable breathwork cadences, and a 3-stem procedural DSP audio mixer to recharge between high-intensity focus blocks.
 
 ---
 
