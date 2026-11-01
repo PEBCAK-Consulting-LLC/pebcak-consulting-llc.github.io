@@ -41,3 +41,11 @@ A wholesome, kid-friendly overworld animal rescue and sanctuary adventure built 
 - **[Support & Parent Hub]({{ "/farmfriends/support/" | relative_url }})**
 - **[Privacy Policy]({{ "/farmfriends/privacy/" | relative_url }})**
 - **[Terms of Service]({{ "/farmfriends/terms/" | relative_url }})**
+
+### [Wicked P.I.]({{ "/wickedpi/" | relative_url }})
+A family-friendly teen-noir graphic-novel detective mystery adventure set in a 100% food-based Mini-Boston for iOS, iPadOS, and Android. Design your own Kiwi Fruit detective and callsign, soar across 6 Boston food districts as a flapping Kiwi Bird, uncover large-print clues across 26 handcrafted mysteries, and crack forensic lab puzzles with strict COPPA-compliant local-first privacy.
+
+- **[Product Overview & Features]({{ "/wickedpi/" | relative_url }})**
+- **[Support & Parent Hub]({{ "/wickedpi/support/" | relative_url }})**
+- **[Privacy Policy]({{ "/wickedpi/privacy/" | relative_url }})**
+- **[Terms of Service]({{ "/wickedpi/terms/" | relative_url }})**
