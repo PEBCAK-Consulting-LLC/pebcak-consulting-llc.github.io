@@ -49,3 +49,11 @@ A family-friendly teen-noir graphic-novel detective mystery adventure set in a 1
 - **[Support & Parent Hub]({{ "/wickedpi/support/" | relative_url }})**
 - **[Privacy Policy]({{ "/wickedpi/privacy/" | relative_url }})**
 - **[Terms of Service]({{ "/wickedpi/terms/" | relative_url }})**
+
+### [Mepp: Mise en Place]({{ "/mepp/" | relative_url }})
+A calm, 100% on-device personal operating system for daily quests, streaks, annual and quarterly goals, decision calibration, custom metrics, guided weekly reviews, mood and journal reflection, reading library, 15-minute time blocks, and personal CRM across Android, Wear OS, iPhone, and Apple Watch — sealed inside a SQLCipher AES-256 vault with zero PEBCAK backend servers. *(Adapted from the open-source [`saw-your-packet/mepp`](https://github.com/saw-your-packet/mepp){:rel="noopener noreferrer"} project under the MIT License.)*
+
+- **[Product Overview & Features]({{ "/mepp/" | relative_url }})**
+- **[Support & User Hub]({{ "/mepp/support/" | relative_url }})**
+- **[Privacy Policy]({{ "/mepp/privacy/" | relative_url }})**
+- **[Terms of Service]({{ "/mepp/terms/" | relative_url }})**
