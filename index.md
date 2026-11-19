@@ -57,3 +57,11 @@ A calm, 100% on-device personal operating system for daily quests, streaks, annu
 - **[Support & User Hub]({{ "/mepp/support/" | relative_url }})**
 - **[Privacy Policy]({{ "/mepp/privacy/" | relative_url }})**
 - **[Terms of Service]({{ "/mepp/terms/" | relative_url }})**
+
+### [Radical Rush]({{ "/radical-rush/" | relative_url }})
+A neon-soaked 90s cartoon 24-vehicle endless stunt runner built for iOS, iPadOS, and Android at up to 120Hz. Carve across 5 arcade lanes, spark Elevated Neon Grind Rails, warp into the 7-second Sky-Warp Cloud Bonus Stage, team up with 4 Robo-Buddy Sidekicks, and outsmart Saturday-morning cartoon bosses with strict COPPA and Google Play Families child-safe privacy.
+
+- **[Product Overview & Features]({{ "/radical-rush/" | relative_url }})**
+- **[Support & Parent Hub]({{ "/radical-rush/support/" | relative_url }})**
+- **[Privacy Policy]({{ "/radical-rush/privacy/" | relative_url }})**
+- **[Terms of Use]({{ "/radical-rush/terms/" | relative_url }})**

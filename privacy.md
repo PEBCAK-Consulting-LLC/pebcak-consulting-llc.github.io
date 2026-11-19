@@ -7,10 +7,26 @@ permalink: /privacy/
 # PEBCAK Consulting LLC - Privacy Policy
 
 **Effective Date:** October 1, 2026  
-**Last Updated:** October 31, 2026  
-**Applications Covered:** Layer8Focus (Android, Wear OS, iOS, iPadOS, watchOS, macOS, visionOS)  
+**Last Updated:** November 19, 2026  
+**Applications Covered:** Radical Rush / Radical Rush 90s (`com.pebcakconsulting.radicalrush` — iOS, iPadOS, Android) &bull; Layer8Focus (`com.pebcakconsulting.layer8focus` — Android, Wear OS, iOS, iPadOS, watchOS, macOS, visionOS)  
 **Publisher:** PEBCAK Consulting LLC  
-**Contact Email:** [layer8focus@pebcakconsulting.com](mailto:layer8focus@pebcakconsulting.com) | [sonofagl1tch@pebcakconsulting.com](mailto:sonofagl1tch@pebcakconsulting.com)  
+**Contact Email:** [ryan@pebcakconsulting.com](mailto:ryan@pebcakconsulting.com) | [layer8focus@pebcakconsulting.com](mailto:layer8focus@pebcakconsulting.com) | [sonofagl1tch@pebcakconsulting.com](mailto:sonofagl1tch@pebcakconsulting.com)  
+
+> **Dedicated Per-App Privacy Policies:**  
+> - **[Radical Rush (`com.pebcakconsulting.radicalrush`) — Full COPPA & Google Play Families Policy]({{ "/radical-rush/privacy/" | relative_url }})**  
+> - **[Wicked P.I. (`com.pebcakconsulting.wickedpi`)]({{ "/wickedpi/privacy/" | relative_url }})** &bull; **[Farm Friends (`com.pebcakconsulting.farmfriends`)]({{ "/farmfriends/privacy/" | relative_url }})** &bull; **[Mepp (`com.pebcakconsulting.mepp`)]({{ "/mepp/privacy/" | relative_url }})**
+
+---
+
+## Radical Rush (`com.pebcakconsulting.radicalrush`) — COPPA & Google Play Families Disclosure
+
+**Radical Rush** is engineered for children and families in strict compliance with **COPPA**, **GDPR-K**, **Apple App Store 4+ / Kids Guidelines**, and the **Google Play Families Policy**:
+
+- **Zero Custom Servers, Zero Accounts & Zero PII:** *Radical Rush* requires no registration or sign-in, operates zero custom backend servers, and never collects names, email addresses, phone numbers, photos, contacts, microphone/camera input, or precise location.
+- **Zero Advertising ID (`AD_ID` / IDFA):** `com.google.android.gms.permission.AD_ID` and Privacy Sandbox AdServices permissions are explicitly removed from the Android manifest, and Apple ATT/IDFA is never requested or accessed on iOS/iPadOS (`NSPrivacyTracking = false`).
+- **Child-Directed, G-Rated Contextual Ads Only:** Before initializing the Google Mobile Ads SDK (`GADDelayAppMeasurementInit = true` / `DELAY_APP_MEASUREMENT_INIT = true`), *Radical Rush* locks every ad request to `tagForChildDirectedTreatment = true`, `tagForUnderAgeOfConsent = true`, `maxAdContentRating = "G"`, and `nonPersonalizedAds = true` (`npa = 1` — contextual only, zero behavioral profiling or remarketing). Under child-directed non-personalized mode, Google Mobile Ads processes only transient IP-derived coarse region, ad interaction events, crash diagnostics, and scoped app-set/install identifiers over TLS for fraud prevention, frequency capping, and contextual delivery.
+- **Local Keychain/Keystore Save Integrity & Optional Platform Cloud Sync:** Game progress is stored locally with hardware-backed HMAC-SHA256 verification and optionally synced via Apple iCloud / Game Center (iOS/iPadOS) or Google Play Games Services / Android Auto Backup (Android) under Apple's and Google's respective privacy policies. You can delete all local data anytime by uninstalling the app or clearing app storage.
+- **Parental Gate & Platform Billing:** All parent controls, external links, purchase buttons (`Radical Club Pro` — `com.pebcakconsulting.radicalrush.pro.lifetime`), and **Restore Purchases** actions are protected behind a randomized multi-digit adult arithmetic **Parental Gate**, with billing handled exclusively by Apple StoreKit 2 or Google Play Billing. See the standalone **[Radical Rush Privacy Policy]({{ "/radical-rush/privacy/" | relative_url }})** for complete details.  
 
 ---
 

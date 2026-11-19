@@ -9,9 +9,12 @@ permalink: /support/
 Welcome to the official support hub for **Layer8Focus** — the tactical zero-knowledge focus and interval timer built for Apple devices (iOS, iPadOS, watchOS, macOS, and visionOS) and Android.
 
 **Developer:** PEBCAK Consulting LLC  
-**Primary Support Contact:** [layer8focus@pebcakconsulting.com](mailto:layer8focus@pebcakconsulting.com)  
+**Primary Support Contact:** [ryan@pebcakconsulting.com](mailto:ryan@pebcakconsulting.com) | [layer8focus@pebcakconsulting.com](mailto:layer8focus@pebcakconsulting.com)  
 **General Inquiries:** [sonofagl1tch@pebcakconsulting.com](mailto:sonofagl1tch@pebcakconsulting.com)  
 **Response Time:** Within 24–48 business hours.
+
+> **Looking for another PEBCAK Consulting LLC app?**  
+> **[Radical Rush Support & Parent Hub]({{ "/radical-rush/support/" | relative_url }})** &bull; **[Wicked P.I. Support]({{ "/wickedpi/support/" | relative_url }})** &bull; **[Farm Friends Support]({{ "/farmfriends/support/" | relative_url }})** &bull; **[Mepp Support]({{ "/mepp/support/" | relative_url }})**
 
 ---
 
